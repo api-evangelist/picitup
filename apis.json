@@ -1,0 +1,52 @@
+{
+    "name": "Picitup",
+    "description": "Picitup is a leading developer and provider of image recognition services, and the first company to deliver a Software-as-a-Service (SaaS) color search.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1112-picitup.jpg",
+    "tags": [
+        "have api",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/picitup\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Picitup",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1112-picitup.jpg",
+            "humanURL": "http:\/\/www2.picitup.com\/picliq",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/picitup-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www2.picitup.com\/picliq"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www2.picitup.com\/blog?format=feed&type=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/picitup"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/picitup"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/PicitupCorp"
+        }
+    ]
+}
